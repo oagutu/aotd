@@ -5,6 +5,7 @@ from tkinter import (Frame, LEFT, X)
 
 from front import main
 
+
 if __name__ == "__main__":
     window = main.MainWindow()
     root = window.create_window()
