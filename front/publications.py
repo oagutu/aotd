@@ -1,0 +1,1 @@
+"""Publications frontend main module"""

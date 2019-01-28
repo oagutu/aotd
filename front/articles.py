@@ -1,0 +1,1 @@
+"""Articles frontend main module"""
